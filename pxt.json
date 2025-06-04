@@ -1,0 +1,9 @@
+{
+  "name": "eliasempresas",
+  "description": "Extensão da Elias Empresas",
+  "icon": "./static/libs/eliasempresas.png",
+  "files": [
+    "main.ts"
+  ],
+  "public": true
+}
