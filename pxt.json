@@ -1,9 +1,13 @@
 {
-  "name": "eliasempresas",
-  "description": "Extensão da Elias Empresas",
-  "icon": "./static/libs/eliasempresas.png",
+  "name": "ELIASEMPRESAS",
+  "description": "Extensão da Elias Empresas para micro:bit",
+  "version": "0.0.1",
   "files": [
     "main.ts"
   ],
-  "public": true
+  "public": true,
+  "icon": "./static/libs/eliasempresas.png",
+  "license": "MIT",
+  "dependencies": {},
+  "supportedTargets": ["microbit"]
 }
